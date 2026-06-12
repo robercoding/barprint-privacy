@@ -4,11 +4,11 @@
 
 ## Overview
 
-BarsPrint is a freestyle rap battle app where you can stay up to date with the latest battles, watch highlights, explore MC profiles, and follow competitions. We do not collect, store, or process any personal data.
+FreestyleVault is a freestyle rap battle app where you can stay up to date with the latest battles, watch highlights, explore MC profiles, and follow competitions. We do not collect, store, or process any personal data.
 
 ## Data Collection
 
-BarsPrint does not:
+FreestyleVault does not:
 - Require user accounts or login
 - Collect personal information
 - Track your location
@@ -21,7 +21,7 @@ The app links to YouTube videos hosted by third parties. When you open a video l
 
 ## Content
 
-All competition names, logos, and battle data are used for informational purposes only. BarsPrint is not affiliated with Red Bull, FMS, Urban Roosters, or any freestyle competition organization.
+All competition names, logos, and battle data are used for informational purposes only. FreestyleVault is not affiliated with Red Bull, FMS, Urban Roosters, or any freestyle competition organization.
 
 ## Changes
 
